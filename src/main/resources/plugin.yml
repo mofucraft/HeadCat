@@ -1,0 +1,8 @@
+name: HeadCat
+version: '${project.version}'
+main: net.mofucraft.headcat.HeadCat
+api-version: 1.18
+prefix: HeadCat
+commands:
+  cat:
+    description: catttttt
